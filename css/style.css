@@ -34,11 +34,10 @@ a {
 }
 
 .banner {
-  background-color: #cdf0ea;
+  background-color: #595853;
   position: relative;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  display: flex;
+  padding-top: 25px;   
+  height: 150px; 
 }
 
 #notebook {
@@ -135,7 +134,7 @@ hr {
 }
 
 .bottom-page {
-  background-color: #ecc5fb;
+  background-color: #595853;
   color: white;
   padding: 5px;
   margin: auto;
